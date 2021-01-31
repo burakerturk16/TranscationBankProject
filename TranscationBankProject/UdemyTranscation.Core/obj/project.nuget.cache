@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkYQ55LaeItLT9qxzq6oYBR51D1KU5KqAKOXVxBDbKVO7srvjm227VpClfxeegr1KMh5OuUfOSdC0o34LSBmMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ringo\\source\\repos\\UdemyTranscation\\UdemyTranscation.Core\\UdemyTranscation.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ringo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ringo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

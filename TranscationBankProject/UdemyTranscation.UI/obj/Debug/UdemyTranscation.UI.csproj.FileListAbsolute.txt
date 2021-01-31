@@ -1,0 +1,10 @@
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\bin\Debug\UdemyTranscation.UI.exe.config
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\bin\Debug\UdemyTranscation.UI.exe
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\bin\Debug\UdemyTranscation.UI.pdb
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.csprojAssemblyReference.cache
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.Form1.resources
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.Properties.Resources.resources
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.csproj.GenerateResource.cache
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.csproj.CoreCompileInputs.cache
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.exe
+C:\Users\ringo\source\repos\UdemyTranscation\UdemyTranscation.UI\obj\Debug\UdemyTranscation.UI.pdb
